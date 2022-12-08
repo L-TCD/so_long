@@ -1,1 +1,1 @@
-# cc main.c libmlx.a -framework OpenGL -framework AppKit
+# cc main.c libft.a libmlx.a -framework OpenGL -framework AppKit
